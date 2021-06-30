@@ -1,5 +1,5 @@
 # Python
-Complete Python Programs Basics to Advance level
+Complete Python Programs Basic to Advance level
 
 Where to strat?
 
