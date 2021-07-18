@@ -1,7 +1,7 @@
 # Python
 Complete Python Programs Basic to Advance level
 
-Where to strat?
+Where to start?
 
     1. Python Basics
     2. Python Basics 2
