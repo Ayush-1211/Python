@@ -5,4 +5,4 @@ Where to start?
 
     1. Python Basics
     2. Python Basics 2
-    3. Advanced Python Object Oriented Programming
+    3. Advanced Python Object Oriented Programming (Advanced OOP)
