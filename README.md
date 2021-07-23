@@ -8,3 +8,4 @@ Where to start?
     3. Advanced Python Object Oriented Programming (Advanced OOP)
     4. Advanced Python Functional Programming (Functional Programming)
     5. Advanced Python Decorators (Python Decorators)
+    6. Advanced Python Error Handling (Error Handling)
