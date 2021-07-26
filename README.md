@@ -9,3 +9,4 @@ Where to start?
     4. Advanced Python Functional Programming (Functional Programming)
     5. Advanced Python Decorators (Python Decorators)
     6. Advanced Python Error Handling (Error Handling)
+    7. Advanced Python Generators (Ptyhon Generators)
