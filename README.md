@@ -1,5 +1,5 @@
 # Python
-Complete Python Programs Basic to Advance level
+Complete Python Programs Basic to Advanced level
 
 Where to start?
 
