@@ -10,4 +10,4 @@ Where to start?
     5. Advanced Python Decorators (Python Decorators)
     6. Advanced Python Error Handling (Error Handling)
     7. Advanced Python Generators (Python Generators)
-    8. Modules in Python ()
+    8. Modules in Python (Modules)
