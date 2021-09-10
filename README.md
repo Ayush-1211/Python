@@ -12,3 +12,4 @@ Where to start?
     7. Advanced Python Generators (Python Generators)
     8. Modules in Python (Modules)
     9. Debugging in Python
+    10. File IO
