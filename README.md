@@ -13,3 +13,4 @@ Where to start?
     8. Modules in Python (Modules)
     9. Debugging in Python
     10. File IO
+    11. Regular Expressions
