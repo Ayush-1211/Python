@@ -14,3 +14,4 @@ Where to start?
     9. Debugging in Python
     10. File IO
     11. Regular Expressions
+    12. Testing in Python
