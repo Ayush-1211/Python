@@ -15,3 +15,4 @@ Where to start?
     10. File IO
     11. Regular Expressions
     12. Testing in Python
+    13. Scripting with Python
